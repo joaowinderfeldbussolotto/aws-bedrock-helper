@@ -1,0 +1,1 @@
+## Helper class for AWS Bedrock solutions
